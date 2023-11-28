@@ -1,0 +1,11 @@
+{
+  "name": "bff_ms_musica",
+  "version": "1.0.0",
+  "description": "Microservicio BFF de musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThonyDev77",
+  "license": "ISC"
+}
